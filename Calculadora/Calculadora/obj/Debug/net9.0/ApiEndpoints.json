@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "Calculadora.Controllers.CalculatorController",
+    "Method": "Get",
+    "RelativePath": "Calculator/sum/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
